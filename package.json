@@ -11,7 +11,7 @@
     "draft-js-image-plugin": "^2.0.6",
     "draft-js-plugins-editor": "^2.1.1",
     "draft-js-resizeable-plugin": "^2.0.8",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
     "react": "^16.6.3",
     "react-autosize-textarea": "^6.0.0",
